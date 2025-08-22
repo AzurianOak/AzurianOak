@@ -1,0 +1,128 @@
+/* Global Dark Theme */
+body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0e0b14;
+    color: #e0d9f6;
+    line-height: 1.6;
+  }
+  
+  /* Layout */
+  .layout {
+    display: flex;
+    height: 100vh;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    width: 240px;
+    background-color: #14101e;
+    border-right: 1px solid #2b1d42;
+    padding: 1rem;
+    font-size: 0.95rem;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .sidebar li {
+    margin: 0.5rem 0;
+    color: #cbbef8;
+    cursor: pointer;
+  }
+  
+  .sidebar li.active {
+    background: #2b1d42;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    color: #fff;
+  }
+  
+  .sidebar .folder {
+    font-weight: bold;
+    color: #9d7ff5;
+    margin-top: 1rem;
+  }
+  
+  /* Main Content */
+  .content {
+    flex: 1;
+    padding: 2rem;
+    overflow-y: auto;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #b48efc;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #b48efc;
+    background: #2b1d42;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Links Section */
+  .links {
+    list-style: none;
+    padding-left: 1rem;
+  }
+  
+  .links li {
+    margin: 0.4rem 0;
+    color: #9d7ff5;
+    cursor: pointer;
+  }
+  
+  .links li:hover {
+    text-decoration: underline;
+  }
+  
+  .links .faded {
+    color: #6d6490;
+  }
+  
+  /* Sidebar links */
+  .sidebar a {
+    color: #9d7ff5;              /* inherit li text color */
+    text-decoration: none;       /* remove underline */
+    display: block;              /* make whole li clickable */
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  
+  .sidebar a:hover {
+    background: #2b1d42;         /* purple hover background */
+    color: #fff;                 /* brighten text on hover */
+  }
+  
+  /* Active link override */
+  .sidebar li.active a {
+    background: #2b1d42;
+    color: #9d7ff5;
+    font-weight: bold;
+  }
+  
+  /* Global link styling */
+  a, 
+  a:visited, 
+  a:hover, 
+  a:active {
+    color: #9d7ff5;
+    text-decoration: none; /* keeps it clean */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* optional: underline on hover */
+  }
+  
+  
