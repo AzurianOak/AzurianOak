@@ -1,4 +1,272 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Azurian Oak]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Azurian Oak</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 26 Aug 2025 02:43:28 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 26 Aug 2025 02:43:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[My Index]]></title><description><![CDATA[
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Azurian Oak]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Azurian Oak</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 26 Aug 2025 03:10:53 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 26 Aug 2025 03:10:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Encyclopedia Of Dates]]></title><description><![CDATA[
+Author: Me (<a data-href="My Index" href="0-indexes/my-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasMagnifyingGlassArrowRight" aria-label="FasMagnifyingGlassArrowRight" data-icon="FasMagnifyingGlassArrowRight" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" width="17px" height="17px"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM241 119c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31H120c-13.3 0-24 10.7-24 24s10.7 24 24 24H238.1l-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l72-72c9.4-9.4 9.4-24.6 0-33.9l-72-72z"></path></svg></span>My Index</a>)
+<br>Tags: <a href=".?query=tag:EnglishLiterature" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#EnglishLiterature">#EnglishLiterature</a> <a href=".?query=tag:Philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Philosophy">#Philosophy</a> <a href=".?query=tag:Quotes" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Quotes">#Quotes</a> <a href=".?query=tag:MyWork" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#MyWork">#MyWork</a> <a href=".?query=tag:Homosexuality" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Homosexuality">#Homosexuality</a> <a href=".?query=tag:HomosexualityLiterature" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#HomosexualityLiterature">#HomosexualityLiterature</a> Website Link
+<br><a data-href="Literature Index" href="0-indexes/literature-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="LiBookA" aria-label="LiBookA" data-icon="LiBookA" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="17px" height="17px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-book-a"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"></path><path d="m8 13 4-7 4 7"></path><path d="M9.1 11h5.7"></path></svg></span>Literature Index</a> &amp; <a data-href="Philosophy Index" href="0-indexes/philosophy-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasBuildingColumns" aria-label="FasBuildingColumns" data-icon="FasBuildingColumns" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" width="17px" height="17px"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. --><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zM256 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg></span>Philosophy Index</a>
+Sources:Sir Kenny, Anthony. 2012. A New History of Western Philosophy. Oxford: Oxford University Press.
+Cox, Michael, ed. 2005. The Concise Oxford Chronology of English Literature. Oxford University Press.
+Sir Anthony Kenny. 1997. The Oxford Illustrated History of Western Philosophy. Oxford University Press, UK.<br>
+“Timeline: Philosophy.” 2012. Oxford Reference. HistoryWorld. 2012. <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.oxfordreference.com/display/10.1093/acref/9780191737107.timeline.0001" target="_self">https://www.oxfordreference.com/display/10.1093/acref/9780191737107.timeline.0001</a>.<br>
+“Philosophy Timeline.” 2025. Santarosa.edu. 2025. <a rel="noopener nofollow" class="external-link is-unresolved" href="https://srjcstaff.santarosa.edu/~mdonovan/whatis/line.htm" target="_self">https://srjcstaff.santarosa.edu/~mdonovan/whatis/line.htm</a>.
+Braungardt, Jürgen. n.d. “Philosophy Timeline.” Https://Sites.google.com/View/Philosophy-Texts/Home/Philosophy-Timeline. Philosophy Texts.777 BCE: First Olympian games
+753 BCE: Foundation of Rome626 - 623 BCE: Thales of Miletus born in Miletus, Ionian League – considered the first philosopher and one of the founders of Ancient Greece570 BCE: Pythagoras is born
+548 – 545 BCE: Thales of Miletus dies due to heatstroke whilst watching the 58th Olympiad
+509 BCE: Roman Republic begins
+508BCE: Democracy is established in Athens under Cleisthenes424 – 428 BCE: Plato is born in Athens
+431 BCE: Peloponnesian War
+470 BCE: Socrates is born in Athens399 BCE: Socrates is executed in Athens
+384 BCE: Aristotle is born at Stagira, Chalcidian League
+375 BCE: Plato writes "Πολιτεία", "The Republic"
+365 – 360 BCE: Pyrrho of Elis, the first Greek sceptic philosopher, born in Elis, Greece
+356 BCE: Alexander the Great is born
+350 BCE: Aristotle writes "Περὶ ψυχῆς", "On the Soul"
+347 – 348 BCE: Plato dies in Athens
+341 BCE: Epicurus born in Samos, Greece
+334 BCE: Zeno of Citium, founder of the Stoic school of philosophy, born in Citium, Classical Cyprus
+322 BCE: Aristotle dies at Chalcis, Euboea, Macedonian Empire275 – 270 BCE: Pyrrho of Elis, the first Greek sceptic philosopher, dies in Elis, Greece
+270 BCE: Epicurus dies in Athens, Greece
+262 BCE: Zeno of Citium, founder of the Stoic school of philosophy, dies in Athens44 BCE: Julius Caesar assassinated
+30 BCE: Augustus becomes Emperor
+19 BCE: Vergil publishes the “Aeneid”30 AD: Jesus crucified
+52 AD: St. Paul preaches in Athens
+65 AD: Suicide of Seneca161: Marcus Aurelius becomes emperor
+161: Marcus Aurelius begins writing “Τὰ εἰς ἑαυτόν”, “Meditations”
+180: Marcus Aurelius finishes writing “Τὰ εἰς ἑαυτόν”, “Meditations”215: Plotinus writes “Ἐννεάδες”, “Enneads”397: Augustine of Hippo begins the “Confessiones”, “Confessions”400: Augustine of Hippo finishes the “Confessiones”, “Confessions”
+410: Sack of Rome by Visigoths
+430: Death of Augustine
+376: End of Roman Empire in West529: Emperor Justinian orders closure of Academy and other schools of pagan philosophy
+534: Justinian’s Code of laws610: Westminster Abbey founded711: Muslims invade Spain
+732: Muslims defeated at Tours
+748: Charlemagne is born in Francia
+770: Arabic numerals introduced800: Charlemagne crowned in Rome
+814: Charlemagne dies in Aachen, Francia
+894: King Æthelstan born in Wessex924 – 939: Æthelstan rules as first king of a unified England
+939: King Æthelstan dies in Gloucester, England1033 - 1034: Anselm of Canterbury is born in Aosta, Kingdom of Burgundy, Holy Roman Empire
+1054: Schism between East and West
+1066: William of Normandy conquers England following the Battle of Hastings
+1078: Anselm of Canterbury publishes “Proslogium”, “Proslogion” – origin of the ontological argument
+1094 – 1098: Anselm of Canterbury writes “Cur Deus Homo?”, “Why God Became a Man”
+1096: Start of the Crusades
+1188: Oxford’s first faculties1109: Anselm of Canterbury dies in Canterbury, England1265: Dante Alighieri is born in Florence, Republic of Florence
+1285: William of Ockham is born
+1290: Jews expelled from England1304: Francis Petrarch is born
+1308: Dante Alighieri begins to write “Divina Commedia”, “Divine Comedy”
+1321: Dante Alighieri publishes “Divina Commedia”, “Divine Comedy”
+1321: Dante Alighieri dies in Ravenna, Papal States
+1346: The Black Death pandemic of the bubonic plague begins in Europe
+1349: William of Ockham dies
+1353: End of the Black Death pandemic of the bubonic plague in Europe
+1374: Francis Petrarch dies1469: Niccolò Machiavelli is born
+1495: Greek Aristotle printed1521: Niccolò Machiavelli publishes “Dell'arte della Guerra”, “The Art of War”
+1517: Luther’s Wittenberg theses
+1522: Luther’s German Bible
+1527: Niccolò Machiavelli dies
+1527: Henry Vill begins negotiations with Rome for a divorce
+1531: Henry VIII breaks with Rome
+1532: Niccolò Machiavelli’s “Discorsi sopra la prima deca di Tito Livio”, “Discourses on Livy”
+1532: Niccolò Machiavelli’s “Il Principe”, “The Prince”, is posted posthumously
+1532: Niccolò Machiavelli’s “Istorie fiorentine”, “Florentine Histories”, is posted posthumously
+1561: British &amp; homosexual philosopher Francis Bacon born
+1564: William Shakespeare is born
+1572: John Donne born
+1572: Scottish clergyman, writer and historian John Knox dies
+1574: British and homosexual poet Richard Barnfield is born in Norbury, Staffordshire
+1588: Thomas Hobbes born
+1588: Defeat of Spanish Armada
+1594: Homosexual poet Richard Barnfield anonymously publishes “The Affectionate Shepherd” – open homosexual content
+1595: Homosexual poet Richard Barnfield publishes “Cynthia, with certain Sonnets, and the legend of Cassandra”, dedicated to William Stanley, 6th Earl of Derby
+1596: René Descartes born in La Haye en Touraine, France
+1597: Francis Bacon publishes “Essayes”, “Essays”
+1598: Homosexual poet Richard Barnfield publishes “The Encomion of Lady Pecunia”1601: Francis Bacon anonymously publishes “A Declaration of the Practises &amp; Treasons Attempted and Committed by Robert Late Earle of Essex and his Complices”
+1603: Francis Bacon anonymously publishes “Briefe Discourse, Touching the Happie Union of the Kingdomes of England, and Scotland”
+1603: William Shakespeare publishes “Hamlet”
+1604: Sir Francis Bacon publishes “Apologie”
+1604: Sir Francis bacon anonymously publishes “Certaine Considerations Touching the Better Pacification and Edification of the Church of England”
+1605: Gunpowder Plot discovered (5 Nov.)
+1605: Sir Francis Bacon publishes “The Advancement of Learning, Divine and Humane”
+1612: Trial of the Witches of Pendle (July-Aug.)
+1616: William Shakespeare dies
+1612: Thomas Fairfax born
+1611: King James Bible
+1616: Death of Shakespeare
+1618: Thirty Years War begins
+1621: Trial and condemnation of Francis Bacon
+1626: British &amp; homosexual philosopher Francis Bacon dies
+1627: British &amp; homosexual poet Richard Barnfield dies
+1631: John Donne dies
+1632: Baruch Spinoza born in Amsterdam, Dutch Republic
+1632: John Locke born
+1642: English Civil War begins
+1644: René Descartes publishes “Principia Philosophiae”, “Principles of Philosophy”
+1648: Cromwell defeats the Scots at the Battle of
+Preston (17-20 Aug.)
+1649: Charles 1 tried (beginning 19 Jan.) and
+executed (30 Jan.)
+1649: England declared a Commonwealth (19 May)
+1649: Sacking of Drogheda by Oliver Cromwell
+(11 Sept.)
+1650: René Descartes dies in Stockholm, Sweden
+1651: Scots crown Charles II at Scone (1 Jan.)
+1651: Cromwell defeats Charles II at the Battle of
+Worcester (3 Sept.): Charles flees to France
+1653: Rump Parliament dissolved and Oliver Cromwell becomes Lord Protector (16 Dec.)
+1657: The Humble Petition and Advice offering Cromwell the title of king (he refuses)
+1658: Oliver Cromwell dies (3 Sept.)
+1659: Richard Cromwell becomes Protector (May)
+1662: Thomas Hobbe’s publishes “Leviathan”
+1667: John Milton publishes “Paradise Lost”
+1677: Baruch Spinoza dies in The Hague, Dutch Republic
+1667: John Locke publishes his essay “Essay on Toleration”
+1677: Baruch Spinoza publishes “Ethica, ordine geometrico demonstrate”, “Ethics, Demonstrated in Geometrical Order” is published posthumously
+1679: Thomas Hobbes dies
+1688: Trial of the Seven Bishops (June)
+1688: The ‘Glorious Revolution’: William of Orange lands at Torbay (5 Nov); enters London (19 Dec.)
+1688: James II, wife, and son flee to France Convention Parliament
+1689: Siege of Londonderry begins (April)
+1689: Siege of Londonderry ends (August)
+1690: Williamite victory at the Battle of the Boyne1704: John Locke dies
+1704: Battle of Blenheim
+1707: Union of England and Scotland
+1711: British Empiricist Philosopher and historian David Hume is born in Scotland
+1712: Jean-Jacques Rousseau born
+1712: Richard Cromwell dies
+1714: Ex-Governor and Londonderry siege hero Colonel Mitchelburne hoisted the Crimson Flag on the cathedral steeple and formed the first club known as the Apprentice Boys
+1724: German philosopher Immanuel Kant is born in Königsberg, Prussia
+1739: David Hume publishes “A Treatise of Human Nature”
+1740: David Hume publishes “A Treatise of Human Nature”
+1741: David Hume publishes “Essays Moral and Political” [vol. i]
+1742: David Hume publishes “Essays Moral and Political” [vol. ii]
+1748: David Hume publishes “Philosophical Essays Concerning Human Understanding”
+1748: David Hume publishes “Three Essays, Moral and Political”
+1751: David Hume publishes “An Enquiry Concerning the Principles of Morals”
+1752: David Hume publishes “Political Discourses”
+1753: David Hume publishes “Essays and Treatises on Several Subjects”
+1754: David Hume publishes “The History of Great Britain”
+1756: David Hume publishes “The History of Great Britain” [vol. ii]
+1757: David Hume publishes “Four Dissertations”
+1759: David Hume publishes “The History of England, Under the House of Tudor"
+1759: British poet Robert Burns born in Scotland
+1761: David Hume publishes “The History of England, from the Invasion of Julius Caesar to the Accession of Henry VII”
+1770: Georg Wilhelm Friedrich Hegel born in Stuttgart, Duchy of Württemberg, Holy Roman Empire
+1776: American Declaration of Independence
+1777: David Hume publishes “The Life of David Hume”
+1779: David Hume publishes “Dialogues Concerning Natural Religion”
+1778: Arthur Schopenhauer is born
+1781: Immanuel Kant publishes “Kritik der reinen Vernunft”, “The Critique of Pure Reason”
+1786: Robert Burns publishes “Poems Chiefly in the Scottish Dialect”
+1787: Robert Burns publishes “Poems Chiefly in the Scottish Dialect
+1787: Immanuel Kant publishes second edition of “Kritik der reinen Vernunft”, “The Critique of Pure Reason”
+1789: Jeremy Bentham publishes “Principles”
+1789: French Revolution
+1790: Galvanism discovered
+1792: Romantic poet Percy Byssche Shelly born
+1797: Mary Shelley/Wollstonecraft born
+1795: Orange Order founded at Loughgall, County Armagh following the Battle of the Diamond
+1795: Royal Arch Purple formed
+1796: British poet Robert Burns dies
+1797: Royal Black Institution formed in Loughgall, County Armagh
+1799: Napoleon takes power1800: “The Works of Robert Burns” published posthumously
+1800: First electric battery
+1804: Immanuel Kant dies in Königsberg, Prussia
+1806: Max Stirner born
+1807: Georg Wilhelm Friedrich Hegel publishes “Phänomenologie des Geistes”, “Phenomenology of Spirit”
+1811: Percy Shelley publishes “The Necessity of Atheism”
+1814: Apprentice Boys of Derry Club established
+1815: Battle of Waterloo
+1818: Mary Shelley publishes “Frankenstein; or, The Modern Prometheus”
+1818: Arthur Schopenhauer publishes “The World as Will and Idea”
+1819: Lord Byron publishes “Don Juan”
+1821: Georg Wilhelm Friedrich Hegel publishes “Grundlinien der Philosophie des Rechts”, “Elements of the Philosophy of the Right”
+1824: No Surrender Club established
+1831: Georg Wilhelm Friedrich Hegel dies in Berlin, Kingdom of Prussia
+1839: “The Prose of Robert Burns” published
+1839: Charles Sanders Peirce is born in Cambridge, Massachusetts, U.S.
+1842: William James is born in New York City, U.S.
+1844: Friedrich Nietzsche born in Germany
+1844: Edward Carpenter born
+1854: Crimean War begins
+1856: Max Stirner dies
+1859: John Stuart Mill publishes “On Liberty”
+1859: Charles Darwin publishes “Origin of Species”
+1860: Arthur Schopenhauer dies
+1865: American Civil War ends
+1872: Friedrich Nietzsche publishes “Die Geburt der Tragödie aus dem Geiste der Musik”, “The Birth of Tragedy”
+1872: British philosopher Bertrand Russell born
+1879: British &amp; Homosexual author E.M. (Edward Morgan) Forster is born
+1882: Wagner’s Parsifal
+1883: Benito Mussolini is born
+1883: Franz Kafka is born
+1883: Karl Marx dies
+1883: Richard Wagner dies
+1883: Friedrich Nietzsche publishes “Also Sprach Zarathustra”, “Thus Spoke Zarathustra”
+1886: Gladstone’s Liberal administration defeated on Irish Home Rule Bill: Lord Salisbury forms Conservative ministry
+1886: British &amp; Homosexual poet Siegfried Sassoon born
+1886: Friedrich Nietzsche publishes “Jenseits von Gut und Böse”, “Beyond Good and Evil”
+1888: Oscar Wilde publishes “The Happy Prince, and Other Tales”
+1888: Adolf Hitler is born
+1889: Martin Heidegger is born
+1873: Edward Carpenter publishes “Narcissus, and Other Poems”
+1893: Oscar Wilde publishes “Lady Windermere’s Fan: A play about a good woman”
+1894: Edward Carpenter publishes “Woman, and Her Place in a Free Society”
+1894: Edward Carpenter publishes “Homogenic Love and its Place in a Free Society”
+1894: Japan declares war on China over Korea
+1895: Invention of wireless telegraphy
+1897: Discovery of the electron
+1899: Invention of the cinema1900: Friedrich Nietzsche dies
+1900: Homosexual author Oscar Wilde dies due to illness
+1903: G.E. Moore publishes “Principia Ethica”
+1903: Invention of the aeroplane
+1904: Bertrand Russell publishes “The Principles of Mathematics”
+1905: Ayn Rand born
+J905: Jean-Paul Sartre is born
+1910: Bertrand Russell publishes “Philosophical Essays”
+1910: Bertrand Russell, and A.N. Whitehead, publishes “Principia Mathematica”
+1910: A.J. (Alfred Jules) Ayer born in St. John's Wood, London, England
+1910: William James dies in Tamworth, New Hampshire, U.S
+1913: Albert Camus born
+1913: Second and Third Balkan Wars
+1914: First World War begins
+1914: E.M. Forster’s “Maurice” is first drafted
+1914: Charles Sanders Peirce dies in Milford, Pennsylvania, U.S.
+1917: Russian Revolution
+1919: Treaty of Versailles
+1921: Ludwig Wittgenstein publishes “Tractatus Logico Philosophicus”
+1923: Adolf Hitler, “Mein Kampf” (completed 1927; English translation 1933)
+1925: Gilles Deleuze born
+1926: Michel Foucault born
+1929: Edward Carpenter dies
+1930: Jacques Derrida born
+1936: A.J. Ayer publishes “Language, Truth and Logic”
+1939: Sigmund Freud dies
+1939: Final collapse of Republican resistance in the Spanish Civil War
+1939: Germany occupies rest of Czechoslovakia (Mar.)
+1939: Italy invades Albania (Apr.)
+1939: Molotov-Ribbentrop pact (23 Aug.)
+1939: Germany invades Poland (1 Sept.)
+1939: Britain and France declare war on Germany (3 Sept.)
+1942: Albert Camus publishes “L’Étranger”, “The Stranger”
+1942: Singapore surrenders to the Japanese (15 Feb.)
+1942: British victory at El Alamein (4 Nov.)
+1942: Anglo-American landings in North Africa
+1947: Albert Camus publishes “La Peste”, “The Plague”
+1947: Discovery of the Dead Sea Scrolls at Qumran
+1949: Slavoj Žižek born
+1960: Albert Camus dies
+1967: Sexual Offences Act 1967 provides limited decriminalisation of homosexual acts
+1970: British &amp; Homosexual author E.M. (Edward Morgan) Forster dies whilst still in the closet
+1970: British philosopher Bertrand Russell dies in Penrhyndeudraeth, Merionethshire, Wales
+1971: E.M. Forster’s “Maurice” is published posthumously due to its homosexuality, originally wrote in 1914
+1971: UDA is founded
+1976: Martin Heidegger dies
+1980: Jean-Paul Sartre dies
+1982: Ayn Rand dies
+1984: Michel Foucault dies of AIDs
+1989: A.J. Ayer dies in London, England
+1995: Gilles Deleuze dies
+1999: Belfast Agreement]]></description><link>3-my-notes/encyclopedia-of-dates.html</link><guid isPermaLink="false">3 - My Notes/Encyclopedia Of Dates.md</guid><pubDate>Tue, 26 Aug 2025 03:10:52 GMT</pubDate></item><item><title><![CDATA[Encyclopedia of Topics & People]]></title><description><![CDATA[
+Author: Me (<a data-href="My Index" href="0-indexes/my-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasMagnifyingGlassArrowRight" aria-label="FasMagnifyingGlassArrowRight" data-icon="FasMagnifyingGlassArrowRight" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" width="17px" height="17px"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM241 119c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l31 31H120c-13.3 0-24 10.7-24 24s10.7 24 24 24H238.1l-31 31c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l72-72c9.4-9.4 9.4-24.6 0-33.9l-72-72z"></path></svg></span>My Index</a>)
+<br>Tags: <a href=".?query=tag:EnglishLiterature" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#EnglishLiterature">#EnglishLiterature</a> <a href=".?query=tag:Philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Philosophy">#Philosophy</a> <a href=".?query=tag:Quotes" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Quotes">#Quotes</a> <a href=".?query=tag:MyWork" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#MyWork">#MyWork</a> <a href=".?query=tag:Homosexuality" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#Homosexuality">#Homosexuality</a> <a href=".?query=tag:HomosexualityLiterature" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#HomosexualityLiterature">#HomosexualityLiterature</a> Website Link
+<br><a data-href="Literature Index" href="0-indexes/literature-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="LiBookA" aria-label="LiBookA" data-icon="LiBookA" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" width="17px" height="17px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-book-a"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"></path><path d="m8 13 4-7 4 7"></path><path d="M9.1 11h5.7"></path></svg></span>Literature Index</a> &amp; <a data-href="Philosophy Index" href="0-indexes/philosophy-index.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasBuildingColumns" aria-label="FasBuildingColumns" data-icon="FasBuildingColumns" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" width="17px" height="17px"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. --><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zM256 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg></span>Philosophy Index</a>
+"It is an unconscious recognition of his own mental need which turns a man to what he calls Altruism. [...] It is a recognition, again, of mental need, which gives man a longing for wholeness and continence of body and mind, and breeds in him the thing called morality.” Morse Monroe, P.g., 9 of Vol. 2 No. 5. (Sept. 1902) of “The Eagle and the Serpent”“The Conscious Egoist asserts that all actions of men are taken either in the quest of happiness or in the avoidance of pain. This is the groundwork upon which he builds up his reasoning.” Morse Monroe, Egoism: Conscious and Unconscious., P.g., 7 of Vol. 2 No. 5. (Sept. 1902) of “The Eagle and the Serpent”“A doctrine is a structure of reasoning raised upon a foundation of fact. The reasoning may be correct or fallacious, but this has nothing to do with the fact upon which it is based. If the doctrine is wrong, and mankind becomes conscious that it is wrong, then the doctrine will die out ; but the fact remains, and another doctrine, more in harmony with it, will be raised upon its foundation.Were Egoism a doctrine, the Conscious Egoist would approach you with these words, "Be selfish, ,or it is best that you should be so." Instead of which, he comes to you and says, "You are selfish; you cannot help it. Therefore you had best recognise the fact.''I say again, Egoism is given forth as a fact and not as a doctrine. [...] If I do a good action, it is the result of Egoism. If I do a bad action, it is the result of Egoism. I am brave by reason of my Egoism, and cowardly by the same reason.” Morse Monroe, P.g., 10 of Vol. 2 No. 5. (Sept. 1902) of “The Eagle and the Serpent”“Egoism is not the ego but the law of the ego.Difference in men's actions is no sign of difference in their motives. It is simply a proof of difference [...]. Therefore there is no unreasonableness in saying that good actions and bad actions (by which I mean actions beneficial to the world and actions detrimental to it) are inspired by Egoism, the mere realisation of self.” Morse Monroe, P.g., 10 of Vol. 2 No. 5. (Sept. 1902) of “The Eagle and the Serpent”“[…] the psychoanalyst diagnosed Foucault’s problem as homosexuality”, Michael Sugrue, PhD, Foucault Power, Knowledge and Post-structuralism, 6:22 - 6:25“[…] Foucault wants to liberate the body by liberating us from the soul”, Michael Sugrue, PhD, Foucault Power, Knowledge and Post-structuralism, 5:48 - 6:25“Foucault rejected this ‘repressive hypothesis’ and claimed that evidence from the 19th century pointed not to a prohibition on speaking about sexuality but to a remarkable proliferation of discourses about sexuality. So what was, is, sexuality? A vital feature of Foucault’s argument is that sexuality is not a natural feature or fact of human life but a constructed category of experience which has historical, social and cultural, rather than biological, origins.” Tasmin Spargo, p.g., 12 of “Foucault and Queer Theory””… having so much invested in believing sexuality to be natural doesn’t mean that it is.This does not mean that Foucault ruled out any biological dimension, but rather that he prioritised the crucial role of institutions and discourses in the formation of sexuality. As David Halperin, author of Saint Foucault: Towards a Gay Hagiography, notes, Foucault did not comment explicitly on the causes of same-sex desires. When asked about the distinction between innate predisposition to homosexuality and social conditioning, his response was: ‘On this question I have absolutely nothing to say. “No comment.”’2 Instead of pursuing the illusory ‘truth’ of human sexuality, Foucault set out to examine its production.” Tasmin Spargo, p.g., 13 of “Foucault and Queer Theory” “Foucault did not suggest that sexual relationships between people of the same sex did not exist before the 19th century.” Tasmin Spargo, p.g., 17 of “Foucault and Queer Theory”“Homosexuality appeared as one of the forms of sexuality when it was transposed from the practice of sodomy onto a kind of interior androgyny, a hermaphrodism of the soul. The sodomite had been a temporary aberration; the homosexual was now a species. […] It was everywhere present in him: at the root of all his actions.”&nbsp; Michel Foucault, quoted by Tasmin Spargo, p.g., 19 - 20 of “Foucault and Queer Theory”. Original source: Michel Foucault, The History of Sexuality: An Introduction, Harmondsworth: Penguin, 1984, p. 43.“In Greco-Roman culture, desire and sexual practices were viewed as ethical or moral concerns, but not as the ultimate shameful or repressed truth of human experience, as they would later be. Crucially, ethics was seen as a relation between the individual and itself, and not as the basis for standards or norms of behaviour; and discipline was seen as part of a practice aimed at attaining individual freedom or autonomy rather than subordinating others. […] Christianity, according to Foucault, developed universal moral codes and interdictions increasingly centred on the truth of sex. […] Christians viewed it as intrinsically evil.” Tasmin Spargo, p.g., 24 - 25 of “Foucault and Queer Theory”“Declaring oneself to be out of the closet of concealed sexuality may be personally liberating, but it entails acknowledging the centrality of heterosexuality as well as reinforcing the marginality of those who are still in the closet. It is impossible, in short, to move entirely outside heterosexuality. As Foucault’s work […] has shown, demanding the recognition of a distinct homosexual identity inevitably reaffirms a binary and unequal opposition between homosexual and heterosexual. […] queer theory could be seen as examining the ways in which the opposition has shaped moral and political hierarchies of knowledge and power.” Tasmin Spargo, p.g., 47 of “Foucault and Queer Theory”“We do not behave in certain ways because of our gender identity, we attain that identity through those behavioural patterns, which sustain gender norms.” Tasmin Spargo, p.g., 56 - 57 of “Foucault and Queer Theory”“The origin of preferences and values is an unresolved theoretical problem in behavioural sciences. The Savanna-IQ Interaction Hypothesis, derived from the Savanna Principle and a theory of the evolution of general intelligence, suggests that more intelligent individuals are more likely to acquire and espouse evolutionarily novel preferences and values than less intelligent individuals, but general intelligence has no effect on the acquisition and espousal of evolutionarily familiar preferences and values. Ethnographies of traditional societies suggest that exclusively homosexual behaviour was probably rare in the ancestral environment, so the Hypothesis would predict that more intelligent individuals are more likely to identify themselves as homosexual and engage in homosexual behaviour. Analyses of three large, nationally representative samples (two of which are prospectively longitudinal) from two different nations confirm the prediction.” SATOSHI KANAZAWA, “INTELLIGENCE AND HOMOSEXUALITY” in Journal of Biosocial Science / Volume 44 / Issue 05 / September 2012, p.g., 595 – 623"It [homosexuality] was everywhere present in him: at the root of all his actions [...] The sodomite had been a temporary aberration; the homosexual was now a species." Michel Foucault. p.g., 45 of "The History of Sexuality: The Will to Knowledge", Vintage Books“[…] modern homosexuality is of comparatively recent origin. Many historians of homosexuality had been keen to trace connections and continuities between 20th-century homosexual identities and behaviours and those of earlier periods. Foucault, in contrast, insisted that the category of the homosexual grew out of a particular context in the 1870s and that, like sexuality generally, it must be viewed as a constructed category of knowledge rather than as a discovered identity. Tasmin Spargo, p.g., 17 of “Foucault and Queer Theory”“[…] the crucial difference between this early form of regulating sexual practices and that of the late 19th century lies in the latter’s claim to identify what Foucault called a ‘species’, an aberrant type of human being defined by perverse sexuality. So while 16th century men and women might be urged to confess that they had indulged in shameful sexual practices against the law of God and the land, the late 19th century man engaging in a sexual relationship with another man would be seen, and be encouraged to see himself, as ‘homosexual’.” Tasmin Spargo, p.g., 18 of “Foucault and Queer Theory”“The fact that a subject position or identity is constructed does not make it any less real for the identified. The homosexual was pathologised as a perverse or deviant type, a case of arrested development, a suitable case for treatment, in short as an aberration from a heterosexual norm. As such, he was subject to the disciplining, marginalising and subordinating effects of social control.” Tasmin Spargo, p.g., 20 of “Foucault and Queer Theory”“Being gay or lesbian was a matter of pride, not of pathology; of resistance, not of self-effacement. […] gay liberation contested the representation of same-sex desires and relationships as unnatural, deviant or incomplete.” Tasmin Spargo, p.g., 28 of “Foucault and Queer Theory”“[…] the impact of safe-sex education led to a renewed emphasis on practices rather than identities in thinking about sex and sexuality. What you did rather than what you were was the crucial issue.” Tasmin Spargo, p.g., 35 of “Foucault and Queer Theory”“Pay attention to how a moral person behaves, who today often thinks that he is done with God and throws off Christianity as something spent. If you ask him whether he's ever doubted that copulation between siblings is incest, that monogamy is the truth of marriage, that filial piety is a sacred duty, etc., a moral shudder would come over him at the idea that one may touch his own sister also as a wife, etc. And whence this shudder? Because he believes in those moral commandments. This moral faith is deeply rooted in his chest. As much as he rails against pious Christians, he himself still remains as much a Christian, namely a moral Christian. In the form of morality, Christianity holds him captive, and indeed a captive under faith. Monogamy is supposed to be something sacred, and whoever lives in bigamy gets punished as a criminal; whoever commits incest suffers as a criminal. Those who are always shouting that religion should not be seen in the state, and that the Jew should be a citizen equally with the Christian, show themselves to be in agreement with this. Isn't this perspective on monogamy and incest a dogma? Touch it, and you will find out how this moral hero is also a hero of faith, despite a Krummacher, despite a Philip II. These fight for the faith of the church, he for the faith of the state, or the state's moral laws; for articles of faith, both condemn anyone who acts differently than what their faith will allow. The stigma of "crime" is stamped upon him, and he may languish in houses of correction, in prisons. Moral faith is as fanatical as religious faith! It is called "freedom of belief" then, when a brother and sister are thrown into prison for a relationship that they had settled with their own "conscience." "But they set a pernicious example." Yes, indeed, others could also come to think that the state does not have to interfere in their relationship, and from this "moral purity" would collapse. So the religious heroes of faith crusade for the "sacred God;' the moral ones for the "sacred good."” Max Stirner, “The Unique and Its Property”, p.g., 62-63“Poststructuralism: term used to describe those kinds of thinking and writing that dis­turb or exceed the ‘merely’ rational or scientific, self- assuredly ‘systematic’ work of structuralists. It is primarily associated with the work of Derrida, Lacan, Foucault, Deleuze and Guattari, Cixous and (post- 1967) Barthes. Poststructuralism entails a rigorous and, in principle, interminable questioning of every centrism (logocen­trism, ethnocentrism, anthropocentrism, etc.), of all origins and ends, meaning and intention, paradigm or system.” Bennett, Andrew, and Nicholas Royle. 2023. An Introduction to Literature, Criticism and Theory. 6th ed. New York: Routledge.“Queer theory is not a singular or systematic conceptual or methodological framework, but a collection of intellectual engagements with the relations between sex, gender and sexual desire.” Tasmin Spargo, p.g., 9 of “Foucault and Queer Theory”“Bisexuality, transsexuality, sadomasochism and transgender identification all implicitly challenged the inclusive ideal of assimilationist politics. The incompatibility can be partly interpreted in terms of respectability. If you want to be an equal part of a straight world by proving how ordinary, how ‘just-like-you’ (but perhaps a bit more sensitive or artistic) you are, it simply won’t do to flaunt your more excessive, transgressive desires or relations.” Tasmin Spargo, p.g., 31 of “Foucault and Queer Theory”“[…] queer meant sexier, more transgressive, a deliberate show of difference which didn’t want to be assimilated or tolerated. This was a difference that meant to upset the status quo, to ask why we assume Bart Simpson is straight.” Tasmin Spargo, p.g., 38 of “Foucault and Queer Theory”“In theory, queer is perpetually at odds with the normal, the norm, whether that is dominant heterosexuality or gay/lesbian identity. It is definitively eccentric, ab-normal. Queer theory employs a number of ideas from poststructuralist theory, including Jacques Lacan’s psychoanalytic models of decentred, unstable identity, Jacques Derrida’s deconstruction of binary conceptual and linguistic structures, and, of course, Foucault’s model of discourse, knowledge and power.” Tasmin Spargo, p.g., 40 - 41 of “Foucault and Queer Theory”“Diana Fuss applies Jacques Derrida’s notion of the ‘supplement’ to the analysis of the opposition of heterosexual/homosexual. The supplement (here homosexual) is that which appears to be an addition to an apparently original term, but on which the supposed original (heterosexual) actually depends. So heterosexuality could be seen as a product of homosexuality, or rather of the same conceptual framework.” Tasmin Spargo, p.g., 45 - 46 of “Foucault and Queer Theory”“Queer theory: taking as its starting point an assumption about the constructedness of human sexualities, queer theory argues that sexuality is neither ‘innate’ nor ‘nat­ural’ but subject to social, cultural, religious, educational, intellectual and other influences. Following Michel Foucault, theorists such as Eve Kosofsky Sedgwick, Judith Butler, Jonathan Dollimore and Joseph Bristow examine ways in which masculinity and femininity, and homo- and heterosexuality, are represented in lit­erary and other texts and question traditional notions of the stability of such cat­egories. In the work of such critics, ‘queer theory’ is in fact central to any thinking about literary representation, homosexual, heterosexual or other.” Bennett, Andrew, and Nicholas Royle. 2023. An Introduction to Literature, Criticism and Theory. 6th ed. New York: Routledge.“Foucault rejected this ‘repressive hypothesis’ and claimed that evidence from the 19th century pointed not to a prohibition on speaking about sexuality but to a remarkable proliferation of discourses about sexuality. So what was, is, sexuality? A vital feature of Foucault’s argument is that sexuality is not a natural feature or fact of human life but a constructed category of experience which has historical, social and cultural, rather than biological, origins.” Tasmin Spargo, p.g., 12 of “Foucault and Queer Theory”“From the 18th century onwards, Foucault argued, sexuality was regarded as something to be regulated and administered rather than judged. The Church and the Law had long been concerned with the regulation of sexuality, but in the Age of Enlightenment new governmental regimes were developed which focused on the embodied and sexual individual. Modified, secular versions of the confession were at the heart of a variety of techniques for internalising social norms. It was in this context that many of the ways of understanding sexuality that are still dominant today, including the opposition between homosexuality and heterosexuality, began to be formulated.” Tasmin Spargo, p.g., 16 of “Foucault and Queer Theory”]]></description><link>3-my-notes/encyclopedia-of-topics-&amp;-people.html</link><guid isPermaLink="false">3 - My Notes/Encyclopedia of Topics &amp; People.md</guid><pubDate>Tue, 26 Aug 2025 03:10:53 GMT</pubDate></item><item><title><![CDATA[My Index]]></title><description><![CDATA[
 <a data-href="The Well" href="3-my-notes/literature/my-poems/the-well.html" class="internal-link" target="_self" rel="noopener nofollow">The Well</a>
 <br><a data-href="Noted" href="3-my-notes/literature/my-poems/noted.html" class="internal-link" target="_self" rel="noopener nofollow">Noted</a>
 <br><a data-href="Sometimes" href="3-my-notes/literature/my-poems/sometimes.html" class="internal-link" target="_self" rel="noopener nofollow">Sometimes</a>
